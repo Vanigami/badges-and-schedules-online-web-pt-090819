@@ -1,1 +1,2 @@
 def badge_creator_method(array)
+end
