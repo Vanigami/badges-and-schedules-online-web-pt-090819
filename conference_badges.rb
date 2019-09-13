@@ -1,1 +1,1 @@
-def badge_creator_method
+def badge_creator_method(array)
