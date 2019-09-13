@@ -19,4 +19,7 @@ def printer(attendees)
     puts badge
   end
   
-  assign_rooms(attendees).each do |
+  assign_rooms(attendees).each do |assignent|
+    puts assignent
+  end
+end
