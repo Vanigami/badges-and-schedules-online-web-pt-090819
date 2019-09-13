@@ -1,2 +1,2 @@
-def badge_creator_method(array)
-end
+def badge_maker
+  
