@@ -10,4 +10,5 @@ end
 
 def assign_rooms(attendees)
   attendees.each.map |attendee, index|
+  "Hello, #{attendee}! You'll be assigned to room #{index"
   
